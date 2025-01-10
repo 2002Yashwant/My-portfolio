@@ -22,7 +22,7 @@ const projects = [
       title: "Project #2",
       description: "Tic Tac Toe game Built with Html , CSS , JavaScript fully functional.",
       links: {
-        site: "#",
+        site: "https://ysrtiktactoeplay.vercel.app/",
         github: "https://github.com/2002Yashwant/Tik-Tak-Toe-Game/tree/main/TIC_TAK_TOE_Project",
       },
     },
