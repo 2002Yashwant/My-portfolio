@@ -72,7 +72,7 @@ const Hero = () => {
                 className="flex flex-row items-center gap-6 my-4 md:mb-0"
                 >
                     <a
-                    href="https://drive.google.com/file/d/1UM8F7e2sbuATxaSlzaIXAbvxR-XNZooL/view?usp=drive_link"
+                    href="https://drive.google.com/file/d/1hOYfJjaW3iWMiBagVC8niFHsdYtip_4Y/view?usp=sharing"
                     download="Yashwant Singh CV" 
                     className="z-10"
                     >    
