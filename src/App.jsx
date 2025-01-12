@@ -4,6 +4,8 @@ import Skills from "./components/Skills";
 import Portfolio from "./components/portfolio";
 import Experience from "./components/Experience";
 import Contact from "./components/Contace";
+import Education from "./components/Education";
+
 
 
 export default function App() {
@@ -14,6 +16,7 @@ export default function App() {
       <Skills />
       <Portfolio />
       <Experience/>
+      <Education/>
       < Contact/>
       
     </div>
