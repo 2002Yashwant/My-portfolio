@@ -13,8 +13,8 @@ const projects = [
       title: "Project #1",
       description: "Stone Paper Scissor Game Using JAVA.",
       links: {
-        site: "#",
-        github: "https://github.com/2002Yashwant/Stone-paper-scissor-game",
+        site: "https://ysr-stone-paper-scissor.vercel.app/",
+        github: "https://github.com/2002Yashwant/Stone-Paper-Scissor",
       },
     },
     {
